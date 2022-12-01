@@ -1,0 +1,5 @@
+C:\Geekbrains\seminar01122022\obj\Debug\net7.0\seminar01122022.csproj.AssemblyReference.cache
+C:\Geekbrains\seminar01122022\obj\Debug\net7.0\seminar01122022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrains\seminar01122022\obj\Debug\net7.0\seminar01122022.AssemblyInfoInputs.cache
+C:\Geekbrains\seminar01122022\obj\Debug\net7.0\seminar01122022.AssemblyInfo.cs
+C:\Geekbrains\seminar01122022\obj\Debug\net7.0\seminar01122022.csproj.CoreCompileInputs.cache
