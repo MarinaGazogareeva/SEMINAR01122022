@@ -1,0 +1,20 @@
+//29: Напишите программу, которая задаёт массив из 8 элементов, предоставить возможность пользователю ввести числа и вывести их на экран.
+Console.Clear();
+Console.Write("Введите 1-е число: ");
+int n1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите 2-е число: ");
+int n2 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите 3-е число: ");
+int n3 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите 4-е число: ");
+int n4 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите 5-е число: ");
+int n5 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите 6-е число: ");
+int n6 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите 7-е число: ");
+int n7 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите 8-е число: ");
+int n8 = Convert.ToInt32(Console.ReadLine());
+for (int n = 0; n < 8; n++);
+Console.WriteLine($"Результат: {n1},{n2},{n3},{n4},{n5},{n6},{n7},{n8}");
